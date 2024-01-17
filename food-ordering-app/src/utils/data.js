@@ -521,7 +521,7 @@ export const cardApiData = [
       cuisines: ["Bakery", "Snacks", "Desserts"],
       avgRating: 4.5,
       parentId: "21659",
-      avgRatingString: "4.5",
+      avgRatingString: "3.5",
       totalRatingsString: "5K+",
       sla: {
         deliveryTime: 31,
@@ -581,7 +581,7 @@ export const cardApiData = [
       avgRating: 4.6,
       veg: true,
       parentId: "436147",
-      avgRatingString: "4.6",
+      avgRatingString: "2.6",
       totalRatingsString: "50+",
       promoted: true,
       adTrackingId:

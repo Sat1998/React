@@ -56,3 +56,8 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+.filter-btn {
+  padding: 4px;
+  cursor: pointer;
+}
