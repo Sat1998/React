@@ -9,6 +9,7 @@ const Body = () => {
     );
     setFilteredResturant(filteredTopRatedRestruRant);
   };
+
   return (
     <div className="body">
       <div className="Search">
